@@ -1,0 +1,13 @@
+def method_name argument_1, argument_2
+hash body
+end 
+:method_name
+hash this is a comment 
+
+puts "welcome to Teddit! - your nres aggregator"
+Welcome to Reddit! - your news aggregator
+
+puts "story: candies are free tonight! upvotes: 4"
+Story: candies are free tonight! upvotes 4
+
+story="story:candies are free tonight!"

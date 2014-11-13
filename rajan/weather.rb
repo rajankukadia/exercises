@@ -34,3 +34,11 @@ puts convert_temperature(temperature).round(2)
 weather_conditions = weather_info["weather"].first["description"]
 name = weather_info["name"]
 puts "current weather conditions in #{name} are: #{temperature}C and #{weather_conditions}"
+
+
+
+
+
+
+
+#specify the name of the city 
